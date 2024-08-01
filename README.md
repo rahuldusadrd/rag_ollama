@@ -16,3 +16,7 @@ Generation Component: This involves a generative model, typically a pre-trained 
 
 
 ![RAG-Retrieve   Generate](https://github.com/user-attachments/assets/a3bb1cc1-7da1-49f7-8117-f2894963433c)
+
+
+#Explanation
+https://medium.com/@rahul.dusad/run-rag-pipeline-locally-with-ollama-embedding-model-nomic-embed-text-generate-model-llama3-e7a554a541b3
